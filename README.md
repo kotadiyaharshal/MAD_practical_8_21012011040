@@ -1,5 +1,4 @@
 # MAD_practical_8_21012011040
-# MAD_practical_8_21012011043
 
 AIM:What is BroadcastReceiver? Difference between Service and BroadcastReceiver. Create an Alarm application by using service & BroadcastReceiver by following below instructions.
 
